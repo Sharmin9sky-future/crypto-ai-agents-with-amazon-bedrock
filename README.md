@@ -1,4 +1,14 @@
-# Crypto AI Agents on Amazon Bedrock
+#                         +----------------+
+                        |  Supervisor Agent |
+                        +--------+--------+
+                                 |
+    ---------------------------------------------------------
+    |          |           |            |           |         |         |
++--------+ +--------+ +--------+ +--------+ +--------+ +--------+ +--------+
+| Design | | Coding | | Writing| | Product| |  App   | |Marketing| |Research|
+| Agent  | | Agent  | | Agent  | |Design  | |Dev Agent| | Agent   | | Agent  |
++--------+ +--------+ +--------+ +--------+ +--------+ +--------+ +--------+
+
 
 As Web3 and generative AI technologies continue to rapidly evolve, a new category of applications known as Crypto AI Agents has emerged. These agents use large language models (LLMs) for their intelligence to accomplish a variety of blockchain-related tasks through a supervisor-collaborator architecture. A supervisor agent orchestrates specialized collaborator agents to analyze blockchain data, identify on-chain investment opportunities, and interact with both humans and other agents. These agents can be equipped with cryptocurrency wallets for autonomous transactions when opportunities arise.
 
